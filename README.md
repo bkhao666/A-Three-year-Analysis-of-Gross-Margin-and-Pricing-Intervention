@@ -80,6 +80,10 @@ The three viable price actions stay below the 10% ceiling. The remaining three p
 
 ## Dashboard views
 
+### Excel pricing strategy dashboard
+
+![Excel portfolio pricing and margin dashboard](assets/excel-pricing-dashboard.png)
+
 ### Power BI portfolio overview
 
 ![Power BI pricing dashboard overview](assets/power-bi-overview.png)
