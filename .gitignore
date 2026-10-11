@@ -1,0 +1,13 @@
+# Local artifact-generation and inspection files
+.artifact_work/
+*.inspect.ndjson
+
+# Power BI and Office temporary files
+*.pbix.lock
+~$*.xlsx
+~$*.pbix
+
+# Operating-system files
+Thumbs.db
+.DS_Store
+
