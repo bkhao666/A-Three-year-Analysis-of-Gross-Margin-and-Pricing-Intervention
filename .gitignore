@@ -1,6 +1,10 @@
 # Local artifact-generation and inspection files
 .artifact_work/
+.artifact_runtime/
 *.inspect.ndjson
+
+# Local spreadsheet repair previews
+outputs/pricing_strategy_repair/
 
 # Power BI and Office temporary files
 *.pbix.lock
