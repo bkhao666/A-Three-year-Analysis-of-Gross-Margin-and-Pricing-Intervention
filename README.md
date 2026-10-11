@@ -2,8 +2,6 @@
 
 An end-to-end retail pricing analysis of 2023–2025 order data, built to identify margin deterioration, isolate Q3 2025 products below a 30% gross-margin threshold, and recommend targeted price increases, supplier renegotiation, or discontinuation.
 
-![Excel portfolio pricing and margin dashboard](assets/excel-pricing-dashboard.png)
-
 ## Business problem
 
 Management observed a significant decline in gross profit margin across the product portfolio. Rising cost of goods sold (COGS), including potential tariff pressure, was identified as the primary concern.
@@ -120,6 +118,6 @@ The three viable price actions stay below the 10% ceiling. The remaining three p
 - MySQL and SQL
 - Microsoft Power BI
 - Microsoft Excel
-- Vibe Analytics (AI-assisted)
+- Vibe Analytics (Codex)
 - Git and GitHub
 
